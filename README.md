@@ -26,7 +26,7 @@ Welcome to **FancyCounter**! This React app allows users to interact with a styl
 
 ## Screenshots
 
-Add screenshots of your app in action here to give potential users a visual overview.
+![FancyCounter Screenshot]([https://user-images.githubusercontent.com/your-username/image-id.png](https://github.com/Raul789/REACT_APP1/blob/main/screenshots/Captur%C4%83%20de%20ecran%20din%202024-11-04%20la%2018.47.54.png))
 
 ## Contributing
 

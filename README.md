@@ -25,8 +25,8 @@ Welcome to **FancyCounter**! This React app allows users to interact with a styl
 - **Theme Options**: Allow users to toggle between light and dark mode.
 
 ## Screenshots
+![Captură de ecran din 2024-11-04 la 18 51 43](https://github.com/user-attachments/assets/70abccb3-0e2e-422b-8db4-9b86747d4bf9)
 
-![FancyCounter Screenshot]([https://user-images.githubusercontent.com/your-username/image-id.png](https://github.com/Raul789/REACT_APP1/blob/main/screenshots/Captur%C4%83%20de%20ecran%20din%202024-11-04%20la%2018.47.54.png))
 
 ## Contributing
 
